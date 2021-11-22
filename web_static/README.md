@@ -1,0 +1,1 @@
+In this directory I learnt the basics of frontend development focusing on HTML and CSS.
